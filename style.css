@@ -1,0 +1,31 @@
+body{
+ background: linear-gradient(white, rgb(141, 207, 233), rgb(0, 91, 128));
+ text-align:center;
+}
+#contact iframe{
+ width: 100%;
+}
+.viagens_mainDiv {
+ border: 1px solid lightgrey;
+}
+.viagens_mainDiv img {
+ width: 100%; 
+}
+.viagens_mainDiv h5 , .viagens_mainDiv p { 
+ margin: 20px; 
+}
+.filmesHead { 
+ font-size: 20px;
+ padding: 6px 22px;
+ border-radius: 10px;
+ margin-bottom: 15px; 
+}
+.filmesHead i { 
+ float: right; 
+}
+.filmesText span { 
+ color: rgb(255, 209, 4); 
+}
+.Livros{
+    margin-bottom:20px;
+}
